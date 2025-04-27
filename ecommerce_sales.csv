@@ -1,0 +1,7 @@
+OrderID,CustomerID,ProductName,Category,OrderDate,Quantity,Price
+1001,C001,Laptop,Electronics,2024-01-15,1,800
+1002,C002,T-shirt,Clothing,2024-02-18,2,20
+1003,C003,Phone,Electronics,2024-01-20,1,600
+1004,C001,Shoes,Footwear,2024-03-05,1,50
+1005,C004,Tablet,Electronics,2024-02-25,2,300
+1006,C005,Headphones,Electronics,2024-03-15,3,100
